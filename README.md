@@ -1,2 +1,2 @@
-# Custom-Fields-Exteded
-Custom Fields Exteded
+# Custom-Fields-Extended
+Custom Fields Extended
