@@ -3,9 +3,9 @@ Contributors: kubee
 Donate link: https://github.com/KubeeCMS/Custom-Fields-Extended
 Tags: acf, custom fields, meta, admin, fields, form, repeater, content
 Requires at least: 4.9
-Tested up to: 5.7
+Tested up to: 5.8
 Requires PHP: 7.3
-Stable tag: 0.8.7.6
+Stable tag: 0.8.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
