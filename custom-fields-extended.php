@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Fields Extended
- * Description: All-in-one enhancement suite that improves Custom Fields.
+ * Description: All-in-one enhancements suite that improves Custom Fields.
  * Version:     0.8.8.3
  * Author:      Kubee
  * Author URI:  https://github.com/KubeeCMS/Custom-Fields-Extended/
